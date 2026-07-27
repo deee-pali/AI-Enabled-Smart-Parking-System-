@@ -72,4 +72,8 @@ AI-Enabled-Smart-Parking-System/
 
 
 ## Author
-Deepali Kumari P 
+
+Deepali Kumari P
+
+- LinkedIn: https://linkedin.com/in/deepali-kumari-p-866a31310
+- GitHub: https://github.com/deee-pali
