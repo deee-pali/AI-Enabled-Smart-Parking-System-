@@ -52,7 +52,7 @@ AI-Enabled-Smart-Parking-System/
 
 ## Project Screenshots
 
-### 1. Login Page
+### 1. Home Page
 ![Home Page](home-page.png)
 
 ### 2. Sign Up Page
