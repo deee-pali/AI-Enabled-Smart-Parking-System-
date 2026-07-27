@@ -50,22 +50,26 @@ AI-Enabled-Smart-Parking-System/
    http://127.0.0.1:5000
    ```
 
- ##  Project Screenshots
+## Project Screenshots
 
-### Login Page
-![Login Page](Login-page.png)
+### 1. Login Page
+![Home Page](home-page.png)
 
-### Parking Slot Booking
+### 2. Sign Up Page
+![Log in Page](login-page.png)
+
+### 3. Parking Slot Booking
 ![Booking Page](Booking-page.png)
 
-### Booking History
+### 4. Booking History
 ![Booking History](booking-history-page.png)
 
-### Wallet
-![Wallet Page](wallet-page.png)
+### 5. Wallet
+![Wallet](wallet-page.png)
 
-### Wallet - Add Money
+### 6. Wallet - Add Money
 ![Wallet Add Money](wallet-add-money-page.png)
+
 
 ## Author
 Deepali Kumari P 
