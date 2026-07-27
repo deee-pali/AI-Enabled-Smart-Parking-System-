@@ -53,10 +53,10 @@ AI-Enabled-Smart-Parking-System/
  ##  Project Screenshots
 
 ### Login Page
-![Login Page](login-page.png)
+![Login Page](Login-page.png)
 
 ### Parking Slot Booking
-![Booking Page](booking-page.png)
+![Booking Page](Booking-page.png)
 
 ### Booking History
 ![Booking History](booking-history-page.png)
